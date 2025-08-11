@@ -1,0 +1,11 @@
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/BrightcovePlayerSwift.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Core/BrightcovePlayer.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Core/BrightcoveVideo.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Core/MockSDK.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Extensions/TimeFormatter.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Extensions/VideoUtils.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Extensions/ViewModifiers.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/Services/PlaybackService+Swift.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/SwiftUI/CustomVideoPlayer.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/SwiftUI/VideoPlayerView.swift
+/home/runner/work/brightcove-player-swift/brightcove-player-swift/Sources/BrightcovePlayerSwift/SwiftUI/VideoThumbnailView.swift

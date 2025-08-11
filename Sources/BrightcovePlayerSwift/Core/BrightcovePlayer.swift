@@ -7,7 +7,9 @@
 //
 
 import Foundation
+#if canImport(BrightcovePlayerSDK)
 import BrightcovePlayerSDK
+#endif
 import AVFoundation
 import Combine
 

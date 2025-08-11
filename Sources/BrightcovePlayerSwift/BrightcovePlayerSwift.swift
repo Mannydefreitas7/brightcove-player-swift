@@ -8,8 +8,8 @@
 
 import Foundation
 
-// Re-export the main classes and protocols for easy importing
-@_exported import BrightcovePlayerSDK
+// The BrightcovePlayerSDK module should be imported by the consumer
+// @_exported import BrightcovePlayerSDK
 
 // MARK: - Version Information
 

@@ -7,7 +7,9 @@
 //
 
 import Foundation
+#if canImport(BrightcovePlayerSDK)
 import BrightcovePlayerSDK
+#endif
 
 /// A Swift wrapper for BCOVVideo providing a more idiomatic interface
 public struct BrightcoveVideo: Identifiable, Hashable {
